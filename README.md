@@ -10,7 +10,7 @@
 baseline model : bertsum
 
 
-5/16(월)
+**5/16(월)**
 1. 모델 확정 - bertsum (extractive 먼저)
 2. 파이썬, 쿠다, pytorch 버젼 확인
     1. conda clean -all
@@ -18,7 +18,7 @@ baseline model : bertsum
 4. 자바를 설치해야지, preprocessing이 될ㅇ듯 맥으로 해볼예정
 5. 
 
-5/17(화) 
+**5/17(화) **
 	0. 자바 설치 -> corenlp 가능해짐
     1. 데이터 preprocessing 해보기
     2. 예제 트레이닝, evalutate 해보기 -> gpu 필요
@@ -27,7 +27,7 @@ baseline model : bertsum
 		- 모델을 비워놔야 bert모델을 다운받는 듯
 
 
-5/18 (수)
+**5/18 (수)**
   1. git add/push/pull/commit 
 
 자바 classpath 설정
