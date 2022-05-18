@@ -7,8 +7,8 @@
 2. feature를 추가한 extractive로 갈지
 3. kobertsum과의 비교? (abs가 없음)
 
-baseline model : bertsum
-
+baseline model : bertsumext
+git주소 : https://github.com/nlpyang/PreSumm/blob/master/README.md
 
 **5/16(월)**
 1. 모델 확정 - bertsum (extractive 먼저)
