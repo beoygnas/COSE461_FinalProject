@@ -8,6 +8,7 @@
 3. kobertsum과의 비교? (abs가 없음)
 
 baseline model : bertsumext
+
 git주소 : https://github.com/nlpyang/PreSumm/blob/master/README.md
 
 **5/16(월)**
